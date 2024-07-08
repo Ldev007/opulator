@@ -2,13 +2,13 @@
 
 A service which is responsible to populate random data in Firebase Cloud Firestore at random intervals where data is an opinion and it's probability to be true at a certain time
 
-### Requirements :
+### 📄 Requirements :
 
 - JDK >= 17
 - Eclipse IDE >= 4.27.0
 - Google account to use Firebase and it's services
 
-### Steps to build/run :
+### :gear: Steps to build/run :
 
 1. Open the firebase console -> Create new project -> Open project settings -> Open the "Service accounts" tab
 2. Under "Service accounts" tab under "Admin SDK configuration snippet" click "Generate new private key" button
